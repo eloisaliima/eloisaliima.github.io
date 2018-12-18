@@ -2,7 +2,15 @@
 
 Maria Eloísa, 18 anos.
 
-Aluna de Desenvolvimento de jogos.
+Estudante de Desenvolvimento de jogos, IFRN-CM.
+
+# Contatos
+
+## Jogos
+
+### Artes
+
+#### Alunos
 
 
 ### Markdown
