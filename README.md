@@ -1,8 +1,8 @@
 ## Meu Portfólio
 
-Maria Eloísa, 18 anos
+Maria Eloísa, 18 anos.
 
-Aluno de Desenvolvimento de jogos.
+Aluna de Desenvolvimento de jogos.
 
 
 ### Markdown
