@@ -6,6 +6,13 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 
 # Contatos
 
+1. Twitter:
+2. Email:
+
+- numero 1 
+- numero 2
+- numero 3
+
 ## Jogos
 
 ### Artes
