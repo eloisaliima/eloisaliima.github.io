@@ -24,32 +24,4 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eloisaliima/eloisaliima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*[jgjbjb](https://www.google.com/search?rlz=1C1GCEU_pt-BRBR822BR822&biw=1920&bih=969&tbm=isch&sa=1&ei=CScZXI3xA8KmwASVsKnoAw&q=cachorro+husky+siberiano&oq=cachorro+h&gs_l=img.1.0.35i39j0l9.1644.3373..4134...0.0..0.146.289.0j2......1....1..gws-wiz-img.......0i67.Snql-csG66U#imgrc=8wFj4MkS9PqsCM:)
