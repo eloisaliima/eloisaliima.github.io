@@ -20,15 +20,19 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 ### Artes
 
 1. Adicionar um link (url)
-[Clique aqui](https://www.google.com/search?q=husky+siberiano+filhote&rlz=1C1GCEU_pt-BRBR822BR822&tbm=isch&source=iu&ictx=1&fir=Z0XtwDeu7C5QBM%253A%252CJ1KHDoy5eVtUvM%252C_&usg=AI4_-kTicwkn5l-06j3Xk8Yjc96SgEOi8g&sa=X&ved=2ahUKEwjsi9Oj6a7fAhVKgJAKHUm6BRcQ9QEwBXoECAIQDg#imgrc=Z0XtwDeu7C5QBM:)
+[Clique aqui](https://www.animalepetshop.com.br/wp-content/uploads/2017/09/cria-de-husky-siberiano-1.jpg)
 
 2. Adicionar uma imagem da internet
 
-![Clique aqui](https://www.google.com/search?q=husky+siberiano+filhote&rlz=1C1GCEU_pt-BRBR822BR822&tbm=isch&source=iu&ictx=1&fir=Z0XtwDeu7C5QBM%253A%252CJ1KHDoy5eVtUvM%252C_&usg=AI4_-kTicwkn5l-06j3Xk8Yjc96SgEOi8g&sa=X&ved=2ahUKEwjsi9Oj6a7fAhVKgJAKHUm6BRcQ9QEwBXoECAIQDg#imgrc=Z0XtwDeu7C5QBM:)
+![Clique aqui](https://www.animalepetshop.com.br/wp-content/uploads/2017/09/cria-de-husky-siberiano-1.jpg)
 
 3. Adicionar uma imagem do computador (arquivo)
+![Imagem1](Tulips.jpg)
+![Imagem2](Jellyfish.jpg)
 
+4. adicionar um link que seja Imagem (url + arquivo)
 
+[![Imagem1](Tulips.jpg)](http//Twitter.com)
 
 #### Alunos
 
