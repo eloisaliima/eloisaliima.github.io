@@ -19,9 +19,19 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 
 ### Artes
 
+1. Adicionar um link (url)
+[Clique aqui](https://www.google.com/search?q=husky+siberiano+filhote&rlz=1C1GCEU_pt-BRBR822BR822&tbm=isch&source=iu&ictx=1&fir=Z0XtwDeu7C5QBM%253A%252CJ1KHDoy5eVtUvM%252C_&usg=AI4_-kTicwkn5l-06j3Xk8Yjc96SgEOi8g&sa=X&ved=2ahUKEwjsi9Oj6a7fAhVKgJAKHUm6BRcQ9QEwBXoECAIQDg#imgrc=Z0XtwDeu7C5QBM:)
+
+2. Adicionar uma imagem da internet
+
+![Clique aqui](https://www.google.com/search?q=husky+siberiano+filhote&rlz=1C1GCEU_pt-BRBR822BR822&tbm=isch&source=iu&ictx=1&fir=Z0XtwDeu7C5QBM%253A%252CJ1KHDoy5eVtUvM%252C_&usg=AI4_-kTicwkn5l-06j3Xk8Yjc96SgEOi8g&sa=X&ved=2ahUKEwjsi9Oj6a7fAhVKgJAKHUm6BRcQ9QEwBXoECAIQDg#imgrc=Z0XtwDeu7C5QBM:)
+
+3. Adicionar uma imagem do computador (arquivo)
+
+
+
 #### Alunos
 
-![ff](https://www.google.com/search?rlz=1C1GCEU_pt-BRBR822BR822&biw=1920&bih=969&tbm=isch&sa=1&ei=CScZXI3xA8KmwASVsKnoAw&q=cachorro+husky+siberiano&oq=cachorro+h&gs_l=img.1.0.35i39j0l9.1644.3373..4134...0.0..0.146.289.0j2......1....1..gws-wiz-img.......0i67.Snql-csG66U#imgrc=8wFj4MkS9PqsCM:)
 
 ### Markdown
 
