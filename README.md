@@ -32,7 +32,7 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 
 4. adicionar um link que seja Imagem (url + arquivo)
 
-[![Imagem1](Tulips.jpg)](http//Twitter.com)
+[![Imagem1](Tulips.jpg)](http://Twitter.com)
 
 #### Alunos
 
