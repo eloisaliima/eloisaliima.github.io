@@ -25,11 +25,11 @@ Jogo 1: Maciellima.github.io/VouContarAte3/
   
 Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
   
-  ![jogo2](Jogo2.png)
+  ![jogo2](jogo2.png)
   
 Jogo 3: eloisaliima.github.io/Estacoes/  
 
-  ![jogo3](Jogo3.png)
+  ![jogo3](jogo3.png)
   
 
 ## Projetos
