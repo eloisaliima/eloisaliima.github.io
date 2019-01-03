@@ -2,7 +2,9 @@
 
 - Maria Eloísa
 - 18 anos
-- Estudante do IFRN-CM.
+- Estudante do IFRN-CM.  
+
+  ![foto](foto1.png)  
 
 - Olá amigos, sejam bem vindos! Me chamo Maria eloisa, tenho 18 anos, sou aluna do IFRN campus Ceará-Mirim. Estou cursando o 3º ano do curso de Programção em Jogos Digitais.
 - Adoro desenhar, criar, decorar, etc. 
@@ -23,11 +25,11 @@ Jogo 1: Maciellima.github.io/VouContarAte3/
   
 Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
   
-  ![Jogo2](Jogo2.png)
+  ![jogo2](Jogo2.png)
   
 Jogo 3: eloisaliima.github.io/Estacoes/  
 
-  ![Jogo3](Jogo3.png)
+  ![jogo3](Jogo3.png)
   
 
 ## Projetos
