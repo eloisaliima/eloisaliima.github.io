@@ -4,7 +4,7 @@
 - 18 anos
 - Estudante do IFRN-CM.  
 
-  ![foto](foto1.png)  
+  ![foto](foto.png)  
 
 - Olá amigos, sejam bem vindos! Me chamo Maria eloisa, tenho 18 anos, sou aluna do IFRN campus Ceará-Mirim. Estou cursando o 3º ano do curso de Programção em Jogos Digitais.
 - Adoro desenhar, criar, decorar, etc. 
@@ -12,9 +12,8 @@
 
 # Contatos
 
-1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> Eloisa Gomes </a>
-2. Instagram: Eloisaliima
-
+1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> ![imagem1] (LOGO-FB.jpg) </a>
+2. Instagram: <a href = "https://www.instagram.com/eloisa_liima/" target = "_blank"> ![imagem2] (logoinsta.png) </a>
 
 ## Jogos
 
