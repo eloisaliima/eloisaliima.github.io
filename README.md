@@ -13,8 +13,7 @@
 # Contatos
 
 1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> Eloisa Gomes </a>
-2. Email: mariaeloisa0906@gmail.com
-3. Instagram: Eloisaliima
+2. Instagram: Eloisaliima
 
 
 ## Jogos
@@ -34,13 +33,22 @@ Jogo 3: eloisaliima.github.io/Estacoes/
 
 ## Projetos
 
-- Nuarte
-Descrição; participei da monitoria do projeto de extensão NUARTE, esse projeto é destinado à área cultural e artística do campus. Densenvolvido pela professora Gislene Araujo.
+- Nuarte  
+  
+    ![Nuarte](NUARTE.jpg)
 
-- EcoArte
+Descrição: participei da monitoria do projeto de extensão NUARTE, esse projeto é destinado à área cultural e artística do campus. Densenvolvido pela professora Gislene Araujo.
+
+- EcoArte  
+  
+    ![Ecoarte](Jogo1.png)
+
 Descrição: Este projeto foi proporcionado pelo NUARTE, onde o objetivo era mostrar para a comunidade interna e externa do campus como desenvolver um ambiente mais sustentável. Os professores que se fizeram presente no dia da exposição puderam levar essa ideia para as escolas e suas crianças.
 
-- Expotec
+- Expotec  
+   
+     ![expotec](expotec.png)
+
 Descrição: Este projeto foi referente a matéria de física e uma atividade desenvolvida em sala, logo após, essa atividade virou projeto, o mesmo era sobre os foguetes, mais especificamente, como constuir foguetes de garrafas Pet. 
 
 
