@@ -14,7 +14,7 @@
 
 Jogo 1: 
   
-  <a href="Maciellima.github.io/VouContarAte3/ " target="_blank">![Jogo1](Jogo1.png) </a>
+  <a href="maciellima.github.io/VouContarAte3/ " target="_blank"> ![Jogo1](Jogo1.png) </a>
   
 Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
   
