@@ -1,8 +1,8 @@
 ## Meu Portfólio
 
-Maria Eloísa, 18 anos.
-
-Estudante de Desenvolvimento de jogos, IFRN-CM.
+- Maria Eloísa
+- 18 anos
+- Estudante do IFRN-CM.
 
 # Contatos
 
@@ -15,7 +15,9 @@ Estudante de Desenvolvimento de jogos, IFRN-CM.
 
 ## Jogos
 
-**Meu Jogo** : _Jogo Muito Legal_
+Jogo 1: 
+Jogo 2: 
+Jogo 3: 
 
 ### Artes
 
