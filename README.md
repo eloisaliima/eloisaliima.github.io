@@ -10,11 +10,6 @@
 - Adoro desenhar, criar, decorar, etc. 
 - Meu sonho é fazer faculdade de arquitetura, porém acho que Design de Interiores é a melhor opção por enquanto.
 
-# Contatos
-
-1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> ![imagem1] (LOGO-FB.jpg) </a>
-2. Instagram: <a href = "https://www.instagram.com/eloisa_liima/" target = "_blank"> ![imagem2] (logoinsta.png) </a>
-
 ## Jogos
 
 Jogo 1: Maciellima.github.io/VouContarAte3/  
@@ -40,15 +35,20 @@ Descrição: participei da monitoria do projeto de extensão NUARTE, esse projet
 
 - EcoArte  
   
-    ![Ecoarte](Jogo1.png)
+    ![Ecoarte](Ecoartee.jpg)
 
 Descrição: Este projeto foi proporcionado pelo NUARTE, onde o objetivo era mostrar para a comunidade interna e externa do campus como desenvolver um ambiente mais sustentável. Os professores que se fizeram presente no dia da exposição puderam levar essa ideia para as escolas e suas crianças.
 
 - Expotec  
    
-     ![expotec](expotec.png)
+     ![expotec](fisicaa.jpg)
 
 Descrição: Este projeto foi referente a matéria de física e uma atividade desenvolvida em sala, logo após, essa atividade virou projeto, o mesmo era sobre os foguetes, mais especificamente, como constuir foguetes de garrafas Pet. 
+
+# Contatos
+
+1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> ![imagem1] (LOGO-FB.jpg) </a>
+2. Instagram: <a href = "https://www.instagram.com/eloisa_liima/" target = "_blank"> ![imagem2] (logoinsta.png) </a>
 
 
 
