@@ -16,7 +16,7 @@
 ## Jogos
 
 Jogo 1: 
-Jogo 2: 
+Jogo 2: CICEROC.github.io/GLOOMY CAMP/
 Jogo 3: 
 
 ### Artes
