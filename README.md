@@ -14,15 +14,15 @@
 
 Jogo 1: 
   
-  <a href="http//:maciellima.github.io/VouContarAte3/" target="_blank"> ![Jogo1](Jogo1.png) </a>
+  [![imagem 01](Jogo1.png)](https://maciellima.github.io/VouContarAte3/)
   
 Jogo 2: 
-  
-   <a href="http//:CICEROC.github.io/GLOOMY CAMP/" target="_blank"> ![jogo2](jogo2.png) </a>
+   
+   [![imagem 02](jogo2.png)](https://CICEROC.github.io/GLOOMY CAMP/)
   
 Jogo 3:  
-
-  <a href="http//:eloisaliima.github.io/Estacoes/" target="_blank"> ![jogo3](jogo3.png) </a>
+   
+   [![imagem 03](jogo3.png)](https://eloisaliima.github.io/Estacoes)
   
 
 ## Projetos
