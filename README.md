@@ -10,16 +10,23 @@
 
 # Contatos
 
-1. Facebook: Eloisa Gomes
+1. Facebook: [Eloisa Gomes](https://www.facebook.com/profile.php?id=100012459307606)
 2. Email: mariaeloisa0906@gmail.com
 3. Instagram: Eloisaliima
 
 
 ## Jogos
 
-Jogo 1: Maciellima.github.io/VouContarAte3/
-Jogo 2: CICEROC.github.io/GLOOMY CAMP/
-Jogo 3: eloisaliima.github.io/Estacoes/
+Jogo 1: Maciellima.github.io/VouContarAte3/  
+  
+  ![Jogo1](Jogo1.png)
+  
+Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
+  
+  
+Jogo 3: eloisaliima.github.io/Estacoes/  
+
+
 
 ## Projetos
 
