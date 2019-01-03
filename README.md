@@ -14,7 +14,7 @@
 
 Jogo 1: Maciellima.github.io/VouContarAte3/  
   
-  ![Jogo1](Jogo1.png)
+  <a href="Maciellima.github.io/VouContarAte3/ " target="_blank">![Jogo1](Jogo1.png) </a>
   
 Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
   
@@ -51,7 +51,7 @@ Descrição: Este projeto foi referente a matéria de física e uma atividade de
 <a href="https://www.instagram.com/eloisa_liima/" target="_blank">
 <img title="INSTAGRAM" alt="pt" src="logoinstagram.png" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012459307606" target="_blank">
-<img title="FACEBOOK" alt="nome" src="facebookicone.jpg" /></a>
+<img title="FACEBOOK" alt="nome" src="facebookicone.png" /></a>
 </center>
 
 
