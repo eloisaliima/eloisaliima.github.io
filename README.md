@@ -4,7 +4,7 @@
 - 18 anos
 - Estudante do IFRN-CM.  
 
-  ![foto](foto.png)  
+  ![foto](foto1.jpg)  
 
 - Olá amigos, sejam bem vindos! Me chamo Maria eloisa, tenho 18 anos, sou aluna do IFRN campus Ceará-Mirim. Estou cursando o 3º ano do curso de Programção em Jogos Digitais.
 - Adoro desenhar, criar, decorar, etc. 
