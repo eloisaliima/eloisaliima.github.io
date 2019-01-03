@@ -31,7 +31,7 @@ Jogo 3: eloisaliima.github.io/Estacoes/
   
     ![Nuarte](NUARTE.jpg)
 
-Descrição: participei da monitoria do projeto de extensão NUARTE, esse projeto é destinado à área cultural e artística do campus. Densenvolvido pela professora Gislene Araujo.
+Descrição: participei da monitoria do projeto de extensão NUARTE, esse projeto é destinado à área cultural e artística do campus. Desenvolvido pela professora Gislene Araujo.
 
 - EcoArte  
   
