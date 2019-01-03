@@ -49,9 +49,9 @@ Descrição: Este projeto foi referente a matéria de física e uma atividade de
 
 <center>
 <a href="https://www.instagram.com/eloisa_liima/" target="_blank">
-<img title="INSTAGRAM" alt="pt" src="logoinsta.png" /></a>
+<img title="INSTAGRAM" alt="pt" src="logoinstagram.png" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012459307606" target="_blank">
-<img title="FACEBOOK" alt="nome" src="LOGO-FB.jpg" /></a>
+<img title="FACEBOOK" alt="nome" src="facebookicone.jpg" /></a>
 </center>
 
 
