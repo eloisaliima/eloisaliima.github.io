@@ -47,8 +47,8 @@ Descrição: Este projeto foi referente a matéria de física e uma atividade de
 
 # Contatos
 
-1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> ![imagem1] (LOGO-FB.jpg) </a>
-2. Instagram: <a href = "https://www.instagram.com/eloisa_liima/" target = "_blank"> ![imagem2] (logoinsta.png) </a>
+1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> ![imagem1](LOGO-FB.jpg) </a>
+2. Instagram: <a href = "https://www.instagram.com/eloisa_liima/" target = "_blank"> ![imagem2](logoinsta.png) </a>
 
 
 
