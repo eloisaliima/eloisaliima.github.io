@@ -10,7 +10,7 @@
 
 # Contatos
 
-1. Facebook: <a herf = "https://www.facebook.com/profile.php?id=100012459307606" target = "blank"> Eloisa Gomes </a>
+1. Facebook: <a href = "https://www.facebook.com/profile.php?id=100012459307606" target = "_blank"> Eloisa Gomes </a>
 2. Email: mariaeloisa0906@gmail.com
 3. Instagram: Eloisaliima
 
