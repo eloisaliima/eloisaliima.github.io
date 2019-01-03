@@ -5,7 +5,7 @@
 - Estudante do IFRN-CM.
 
 - Olá amigos, sejam bem vindos! Me chamo Maria eloisa, tenho 18 anos, sou aluna do IFRN campus Ceará-Mirim. Estou cursando o 3º ano do curso de Programção em Jogos Digitais.
-- Adoro desenhar, criar, decorar, ect. 
+- Adoro desenhar, criar, decorar, etc. 
 - Meu sonho é fazer faculdade de arquitetura, porém acho que Design de Interiores é a melhor opção por enquanto.
 
 # Contatos
