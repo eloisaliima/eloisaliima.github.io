@@ -23,10 +23,12 @@ Jogo 1: Maciellima.github.io/VouContarAte3/
   
 Jogo 2: CICEROC.github.io/GLOOMY CAMP/  
   
+  ![Jogo2](Jogo2.png)
   
 Jogo 3: eloisaliima.github.io/Estacoes/  
 
-
+  ![Jogo3](Jogo3.png)
+  
 
 ## Projetos
 
